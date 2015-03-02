@@ -23,7 +23,7 @@ PHP和MySQLWeb开发（3E）（在读）
 JavaScript语言精粹（在读）
 
 JavaScript权威指南（6E）
-HTTP权威指南（预约中）
+HTTP权威指南（预约）
 
 ***
 ### 程序类
