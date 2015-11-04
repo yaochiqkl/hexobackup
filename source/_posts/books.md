@@ -12,7 +12,7 @@ Head First Ajax(已读完)
 JavaScript 高级程序设计（3rd Edition)(正在研读)
 精通正则表达式（3rd Edition)（在读）
 CSS权威指南（3rd Edition)（在读）
-HTM5高级程序设计（在读） [最新版：HTML5程序设计]
+HTM5程序设计（2nd Edition)（在读）
 Node.js开发指南（在读）
 HTML5与CSS3基础教程（7th Edition）[最新版：8th Edition]
 
