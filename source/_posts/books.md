@@ -6,23 +6,23 @@ tags:
 
 ### 前端类
 Head First HTML&CSS (已读完)
-JavaScript DOM 编程艺术（2nd Edition)(已读完)
+JavaScript DOM 编程艺术（2E)(已读完)
 Head First Ajax(已读完)
+高性能网站建设指南（已读完）
 
-JavaScript 高级程序设计（3rd Edition)(正在研读)
-精通正则表达式（3rd Edition)（在读）
-CSS权威指南（3rd Edition)（在读）
-HTM5程序设计（2nd Edition)（在读）
+JavaScript 高级程序设计（3E)(反复研读)
+精通正则表达式（3E)（在读）
+CSS权威指南（3E)（在读）
+HTM5程序设计（2E)（在读）
 Node.js开发指南（在读）
-HTML5与CSS3基础教程（7th Edition）[最新版：8th Edition]
+HTML5与CSS3基础教程（7E）[最新版：8E]
+锋利的jQuery（2E)（在读）
+PHP和MySQLWeb开发（3E）（在读）
+深入浅出Node.js（在读）
 
-
-深入浅出Node.js
-锋利的jQuery
 JavaScript语言精粹
 JavaScript权威指南
 HTTP权威指南
-高性能网站建设指南
 
 ***
 ### 程序类

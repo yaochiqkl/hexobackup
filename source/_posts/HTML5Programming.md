@@ -11,19 +11,31 @@ HTML程序设计（第二版）
 What's WHATWG
 1.<!DOCTYPE html> <meta charset="utf-8">
 2.Semantization tagments:<header><footer><section><article><aside><nav>
-3.
+3.Selectors API : **QuerySelector()** **QuerySelectorALL()
 
 ### Canvas API
+苹果公司提出的位图画布并按照W3C的免版税专利许可条款公开了专利。
+```
+<canvas>Your Bo</canvas>
 
-### SVG
+```
+
+
+### SVG --Scalable Vector Graphics
+标准矢量图形
 
 ### Audio & Vidio
+目前依然没有同意的编码器
 
 ### Geolocation API
+强大的地理位置定位
 
 ### Communication API
+#### 跨文档消息通信
+#### XHR Level2
 
 ### WebSockets API
+全双工通信信道，仅通过一个Soket即可通信。
 
 ### Forms API
 
