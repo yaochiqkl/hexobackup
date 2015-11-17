@@ -11,7 +11,7 @@ CSS权威指南（第三版）
 
 根据部分属性选择  p[class~="warning"]{font-weight:bold;}
 (子串匹配属性选择器 [foo^="bar"] \\ [foo$="bar" \\ foo*="bar"])
-
+<!-- more -->
 ### 选择相邻兄弟元素
 li+li{font-weight:bold;} 紧跟在一个li后面出现的所有兄弟li元素
 

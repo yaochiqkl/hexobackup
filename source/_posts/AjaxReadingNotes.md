@@ -9,7 +9,7 @@ Reading Notes
 
 ## AJAX ( Asynchronous JacaScript and XML )
 核心是XHR对象，以异步方式从服务器获取信息
-
+<!-- more -->
 **工具函数-创建请求对象（uils.js）** 
 >DRY原则
 ```

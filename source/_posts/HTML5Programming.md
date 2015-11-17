@@ -6,7 +6,7 @@ HTML程序设计（第二版）
 ![Pro HTML% Programming](http://img3.douban.com/lpic/s9066310.jpg)
 
 曾以为HTML5不过是多了几个语义化的标签，读了这部经典之作，改变了我对HTML5的看法。第一遍只是粗略地概览，并不深入，了解HTML5的新特性，体会到了HTML5提供的新的API的强大之处。
-
+<!-- more -->
 ### Summary
 What's WHATWG
 1.<!DOCTYPE html> <meta charset="utf-8">
