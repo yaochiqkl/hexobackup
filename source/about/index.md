@@ -1,7 +1,6 @@
 title: 关于我
 date: 2015-10-22 16:20:41
 photos:
-- /images/1.jpg
 - /images/2.jpg
 - /images/3.jpg
 
