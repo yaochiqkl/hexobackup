@@ -9,12 +9,12 @@ archive_date_format: MMM DD
 fancybox: true
 widgets: #配置页脚显示哪些小挂件
   - category
-  - tag
+ # - tag
   - tagcloud
   - recent_posts
-  - blogroll
+ #- blogroll
 duoshuo_shortname: yaochiqkl
 
 #google_analytics:
-baidu_tongji: true
+#baidu_tongji: true
 favicon: /favicon.png
