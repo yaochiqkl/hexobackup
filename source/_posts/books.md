@@ -29,8 +29,8 @@ JavaScript权威指南（6E）（已购）★★★★★
 深入浅出Node.js（过难）★★★
 ***
 ### 相关框架
-+JQuery(已学)
-+Bootsrap(粗略已学)
++JQuery (已学)
++Bootsrap (粗略已学)
 +VUE.js (在学)
 +Angular.js
 +Backbone.js
