@@ -1,10 +1,5 @@
 title: '历尽千辛万苦个人网站终于建好了!'
-tags:
-  - LNMP
-  - WordPress
-id: 5
-categories:
-  - 程序生涯
+tags: [WordPress]
 date: 2015-09-18 23:49:44
 ---
 

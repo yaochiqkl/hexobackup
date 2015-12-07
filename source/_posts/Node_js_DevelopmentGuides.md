@@ -1,6 +1,6 @@
 title: Node.js开发指南读书笔记
 date: 2015-10-28 23:10:00
-tags:
+tags: [Node]
 ---
 Node.js开发指南-BYVoid
 ![Node.js开发指南](http://img3.doubanio.com/lpic/s10307479.jpg)

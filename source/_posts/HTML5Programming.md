@@ -1,6 +1,6 @@
-title: HTML5Programming
+title: HTML5程序设计
 date: 2015-11-05 19:04:52
-tags:
+tags: [HTML5]
 ---
 HTML程序设计（第二版）
 ![Pro HTML% Programming](http://img3.douban.com/lpic/s9066310.jpg)

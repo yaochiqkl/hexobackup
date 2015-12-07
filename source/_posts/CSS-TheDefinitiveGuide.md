@@ -1,6 +1,6 @@
 title: 'CSS权威指南读书笔记'
 date: 2015-10-29 20:05:39
-tags:
+tags: [CSS]
 ---
 CSS权威指南（第三版）
 ![CSS:The Definitive Guide (The 3rd Edition)](http://img3.douban.com/lpic/s2921314.jpg)

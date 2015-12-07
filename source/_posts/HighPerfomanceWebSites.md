@@ -1,6 +1,6 @@
 title: 高性能网站建设指南(雅虎优化前端14条准则)
 date: 2015-11-06 18:59:10
-tags:
+tags: [网站性能优化]
 ---
 ![High Performance Web Sites](http://img4.douban.com/lpic/s5914296.jpg)
 高性能网站建设指南

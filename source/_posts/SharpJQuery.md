@@ -1,6 +1,6 @@
 title: 锋利的jQuery
 date: 2015-11-06 20:12:02
-tags:
+tags: [jQuery]
 ---
 ![锋利的jQuery](http://img4.douban.com/lpic/s28026858.jpg)
 每天都在图书馆查这本书，这两天终于等到别人还过来了，这几天借的书还不少，有十本，都快达上限了，就不能借一本自习看一本么！？

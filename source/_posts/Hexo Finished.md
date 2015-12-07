@@ -1,6 +1,6 @@
 title: 基于Hexo的个人博客终于建成了！
 date: 2015-10-22 00:59:18
-tags:
+tags: [hexo]
 - Hexo
 description: 居然建成了
 ---

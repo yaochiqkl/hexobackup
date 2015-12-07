@@ -1,6 +1,6 @@
 title: Head First Ajax 读书笔记
 date: 2015-10-27 22:36:49
-tags:
+tags: [ajax]
 ---
 Reading Notes
 ![Head First Ajax](http://img3.douban.com/lpic/s4245583.jpg)
