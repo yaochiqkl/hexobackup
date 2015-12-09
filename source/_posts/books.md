@@ -1,5 +1,5 @@
 title: 书单
-date: 2015-10-25 21:45:35
+date: 2015-12-25 21:45:35
 tags: [books]
 ---
 ## 2015下半年书单
@@ -26,19 +26,19 @@ JavaScript语言精粹（在读）
 JavaScript设计模式（在读）
 ——————————————————————————————————
 JavaScript权威指南（6E）（已购）★★★★★
-深入浅出Node.js（过难）★★★
+深入浅出Node.js（过难）
 ***
 ### 前端相关框架
-+JQuery (已学)
-+Bootsrap (粗略已学)
-+VUE.js (在学)
-+Angular.js
-+Backbone.js
-+React.js
-+Require.js
-+Gulp.js
-+Grunt Yoman Bower
-+Webpack
++ JQuery (已学)
++ Bootsrap (粗略已学)
++ VUE.js (在学)
++ Angular.js
++ Backbone.js
++ React.js (在学)
++ Require.js
++ Gulp.js
++ Grunt Yoman Bower
++ Webpack
 ***
 ### 程序类
 算法导论（在读）
