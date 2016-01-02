@@ -5,11 +5,11 @@ tags: [interview]
 面试的难度很大，无论是从广度还是深度，都要求很高。
 <!-- more -->
 ## 面试相关内容
-HTTP2.0相关
-ES5 && ES6 相关
-Bootstrap 栅格系统以及用原生的CSS怎么如何实现
-JQuery源码   DOM查询如何实现（没答出来）    
-HTTP协议相关 状态请求码  各种方法
+HTTP2.0相关，新特性
+ES5 && ES6 相关，了解多少
+Bootstrap相关 栅格系统以及用原生的CSS怎么如何实现
+JQuery源码   DOM查询如何实现（没答出来，是有看过的，没有研究透彻）    
+HTTP协议相关 状态请求码 以及各种方法
 CSS相关 display 盒模型（如何改变没答出来，我以为是什么技巧，结果就是文档类型的声明…）
 CSS3新特性  用了什么  做过什么联系
 JavaScript相关  闭包 作用域 如何拓展作用域（call apply bind with)
